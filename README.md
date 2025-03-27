@@ -16,10 +16,18 @@ El objetivo principal de este proyecto es desarrollar una página web interactiv
 
 ## Tercer trimestre  
 
+### JavaScript
 He añadido un fragmento de código que traduce la descripción del clima usando el objeto `TRADUCCION_CLIMA`. En caso de que no hubiera traducción, se mantendría el texto original. Además, actualiza la temperatura, la descripción del clima, la ubicación y la velocidad del viento en la interfaz.  
 
 <p align="center">
   <img src="https://github.com/nutrianalor/AppClima/blob/main/Imagenes/1.%20JavaScriptTraduccion.png" alt="Descripción" width="500">
+</p>
+
+### CSS
+
+<p align="center">
+  <img src="https://github.com/nutrianalor/AppClima/blob/main/Imagenes/2.%20CSS1.png" alt="Descripción" width="500">
+  <img src="https://github.com/nutrianalor/AppClima/blob/main/Imagenes/3.%20CSS2.png" alt="Descripción" width="500">
 </p>
 
 En este trozo de código añadido, transformo la interfaz para adaptarse a dispositivos móviles, reorganizando la disposición de los elementos y ajustando los tamaños.  
@@ -61,3 +69,4 @@ ngrok http 5000
 ```
 
 Y me devuelve un enlace que copié y abrí en el navegador.  
+
