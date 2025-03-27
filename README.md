@@ -10,6 +10,8 @@
 
 El objetivo principal de este proyecto es desarrollar una página web interactiva y fácil de usar que proporcione información detallada sobre el clima de cualquier ubicación que el usuario desee seleccionar. La plataforma mostrará datos en tiempo real, incluyendo la temperatura actual expresada en grados, la ubicación específica del lugar consultado, una imagen animada representativa de las condiciones climáticas y, además, la velocidad del viento. Con un diseño intuitivo y atractivo, esta página web permitirá a los usuarios obtener información meteorológica de manera rápida y visualmente agradable, mejorando así su experiencia y facilitando la toma de decisiones en función del clima.  
 
+![ImagenIntro](https://github.com/nutrianalor/AppClima/blob/main/Imagenes/0.%20Introduccion.png)
+
 ---
 
 ## Tercer trimestre  
