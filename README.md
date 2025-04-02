@@ -45,7 +45,7 @@ Docker es una plataforma que permite crear, distribuir y ejecutar aplicaciones e
 Lo primero que he hecho ha sido crear un archivo en la carpeta de mi proyecto llamado `Dockerfile`.  
 
 <p align="center">
-    <img src="https://github.com/nutrianalor/AppClima/blob/main/Imagenes/4.%20Dockerfile.png"alt="Descripción" width="500">
+    <img src="https://github.com/nutrianalor/AppClima/blob/main/Imagenes/4.%20Dockerfile.png"alt="Descripción" width="300">
 </p>
 
 Tal y como comento en los `#`, la línea 2 sirve para usar la imagen oficial de Nginx como base para el contenedor, la línea 5 copia todos los archivos del directorio donde me encuentro al directorio de Nginx donde se sirven las páginas web, y la línea 8 expone el puerto 80, que es el predeterminado para Nginx.  
@@ -80,4 +80,5 @@ Al abrir `ngrok.exe`, me lleva al CMD, donde solo he tenido que escribir lo sigu
 ngrok http 5000
 ```
 
-Y me devuelve un enlace que copié y abrí en el navegador.  
+Y me devuelve un enlace largo que copié y abrí en el navegador.  
+
